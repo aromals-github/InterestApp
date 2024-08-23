@@ -12,10 +12,9 @@ bash
 git clone <repository-url>
 cd <repository-directory>
 
-Replace <repository-url> with the URL of the Git repository and <repository-directory> with the name of the directory where the repository is cloned.
 2. Create and Activate a Virtual Environment
 
-A virtual environment isolates your project’s dependencies. Follow these steps to create and activate a virtual environment:
+A virtual environment isolates  project’s dependencies. Follow these steps to create and activate a virtual environment:
 
     Install virtualenv (if not already installed):
 
