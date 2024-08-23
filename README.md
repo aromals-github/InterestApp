@@ -9,7 +9,7 @@ First, you need to clone the repository containing the Django project. Use the f
 
 bash
 
-git clone <repo-link>
+git clone https://github.com/aromals-github/InterestApp.git
 
 2. Create and Activate a Virtual Environment
 
