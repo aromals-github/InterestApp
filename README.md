@@ -9,8 +9,7 @@ First, you need to clone the repository containing the Django project. Use the f
 
 bash
 
-git clone <repository-url>
-cd <repository-directory>
+git clone <repo-link>
 
 2. Create and Activate a Virtual Environment
 
